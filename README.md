@@ -1,7 +1,7 @@
 Hey!
 I made this mobile app "Art Explorer" using React native and Firebase. Main features of this app are listed below;
 
-1. You can post our creative art in this app.
+1. You can post your creative art in this app.
 2. You can explore posted Art of everyone else in this app.
 3. You can like the post which are also saved after like.
 4. You can update your profile details and also update your profile picture.
