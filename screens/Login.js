@@ -142,11 +142,11 @@ const styles = StyleSheet.create({
     passwordContainer: {
         flexDirection: 'row',
         alignItems: 'center',
-        width: '100%', // Increased width
-        backgroundColor: '#F8F8F8', // Light gray background for input fields
+        width: '100%', 
+        backgroundColor: '#F8F8F8', 
         borderRadius: 14,
         marginBottom: 10,
-        paddingRight: 15, // Adjust padding to align the icon properly
+        paddingRight: 15, 
     },
     passwordInput: {
         flex: 1,
@@ -154,31 +154,31 @@ const styles = StyleSheet.create({
         color: '#000000', // Dark grey text color for input
     },
     button: {
-        width: '100%', // Increased width
-        padding: 20, // Increased padding
+        width: '100%', 
+        padding: 20, 
         borderRadius: 14,
         alignItems: 'center',
-        backgroundColor: '#2F2F2F', // Dark grey with black shade for the button background
+        backgroundColor: '#2F2F2F', 
         marginBottom: 7,
         marginTop: 25,
     },
     buttonText: {
         fontSize: 16,
         fontWeight: 'bold',
-        color: '#FFFFFF', // White color for the button text
+        color: '#FFFFFF', 
     },
     forgotPassword: {
         alignSelf: 'flex-end',
     },
     forgotPasswordText: {
         fontSize: 14,
-        color: '#000000', // Dark grey color for the forgot password text
+        color: '#000000', 
         fontWeight: 'bold',
         marginTop: 5,
     },
     signupText: {
         fontSize: 17,
-        color: '#2F2F2F', // Dark grey color for the signup text
+        color: '#2F2F2F', 
         marginTop: 50,
         textAlign: 'center',
         textDecorationLine: 'underline',
@@ -186,13 +186,13 @@ const styles = StyleSheet.create({
     },
     signupLink: {
         fontSize: 17,
-        color: '#000000', // Black color for the signup link
+        color: '#000000', 
         fontWeight: 'bold',
         textDecorationLine: 'underline',
         textDecorationStyle: 'solid',
-        borderBottomWidth: 12, // Increase the thickness of the underline
-        borderBottomColor: '#000000', // Black color for the underline
-        marginTop: 5, // Adjust to position the underline lower
+        borderBottomWidth: 12, 
+        borderBottomColor: '#000000', 
+        marginTop: 5, 
     },
     icon: {
         padding: 14,
